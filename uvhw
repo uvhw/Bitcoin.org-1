@@ -1,0 +1,5 @@
+git checkout 22.0
+git merge --no-ff 1DqwDPfQGEnqQr2P8qtY97LA9kG33djoqB-wbnns-translation-faq
+git push origin 22.0
+
+
